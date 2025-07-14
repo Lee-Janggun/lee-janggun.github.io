@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [Concurrency and Parallelism Laboratory]({{ site.baseurl }}/).
+I am a **Ph.D Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [CASYS Lab](https://casyslab.kaist.ac.kr/), supervised by [Jongse Park](https://jongse-park.github.io/).
 
-My interest lies in formal verfication low-level concurrent data structures and systems.
+My interest lies in formal verification low-level concurrent data structures and systems.
 I am especially interested in modular and automatic verification of them using separation logic such as [Iris](https://iris-project.org).
+
+Currently, I am looking into verification of out-of-order multicore processors.
